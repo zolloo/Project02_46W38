@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+outputs/
+*_old.py
